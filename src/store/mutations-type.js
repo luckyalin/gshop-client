@@ -1,0 +1,8 @@
+export const RECEIVE_ADDRESS = 'receive_address'
+export const RECEIVE_SHOPS = 'receive_shops'
+export const RECEIVE_CATEGORIES = 'receive_categories'
+export const UPDATE_USERINFO = 'update_userInfo'
+export const RECEIVE_SHOP_INFO = 'recevie_shop_info'
+export const RECEVIE_SHOP_RATINGS = 'revevie_shop_ratings'
+export const RECEVIE_GOODS = 'revevie_goods'
+export const RECEIVE_SHOP_RATINGS = 'revevie_shop_ratings'
